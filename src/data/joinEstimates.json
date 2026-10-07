@@ -1,0 +1,2253 @@
+[
+  {
+    "character": "Alexandra",
+    "routes": {
+      "Cai": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Benditz",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Bonaventure",
+    "routes": {
+      "Cai": null,
+      "Dietrich": null,
+      "Theodora": {
+        "chapterMin": 1,
+        "chapterMax": 1,
+        "levelMin": 1,
+        "levelMax": 1,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "Ch 1",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      },
+      "Leda": null
+    }
+  },
+  {
+    "character": "Buccar",
+    "routes": {
+      "Cai": null,
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 1,
+        "chapterMax": 1,
+        "levelMin": 1,
+        "levelMax": 1,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "Ch 1",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      }
+    }
+  },
+  {
+    "character": "Catania",
+    "routes": {
+      "Cai": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 4,
+        "chapterMax": 4,
+        "levelMin": 6,
+        "levelMax": 7,
+        "confirmed": false,
+        "isAuto": true,
+        "autoChapterNote": "Tutorial, Ch 4",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Dadao",
+    "routes": {
+      "Cai": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 11,
+        "chapterMax": 11,
+        "levelMin": 35,
+        "levelMax": 35,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 6,
+        "chapterMax": 6,
+        "levelMin": 13,
+        "levelMax": 13,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 6,
+        "chapterMax": 6,
+        "levelMin": 13,
+        "levelMax": 13,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Dante",
+    "routes": {
+      "Cai": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Diego",
+    "routes": {
+      "Cai": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 11,
+        "levelMin": 31,
+        "levelMax": 35,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Esmeralda",
+    "routes": {
+      "Cai": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 2,
+        "chapterMax": 2,
+        "levelMin": 1,
+        "levelMax": 1,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "Ch 2",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Fabio",
+    "routes": {
+      "Cai": null,
+      "Dietrich": {
+        "chapterMin": 1,
+        "chapterMax": 1,
+        "levelMin": 1,
+        "levelMax": 1,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "Ch 1",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      },
+      "Theodora": null,
+      "Leda": {
+        "chapterMin": 12,
+        "chapterMax": 12,
+        "levelMin": 37,
+        "levelMax": 37,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Fianna",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 6,
+        "chapterMax": 6,
+        "levelMin": 13,
+        "levelMax": 13,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Gaitz",
+    "routes": {
+      "Cai": null,
+      "Dietrich": {
+        "chapterMin": 12,
+        "chapterMax": 12,
+        "levelMin": 37,
+        "levelMax": 37,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": null,
+      "Leda": null
+    }
+  },
+  {
+    "character": "Goliath",
+    "routes": {
+      "Cai": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Guzran",
+    "routes": {
+      "Cai": {
+        "chapterMin": 3,
+        "chapterMax": 3,
+        "levelMin": 4,
+        "levelMax": 4,
+        "confirmed": false,
+        "isAuto": true,
+        "autoChapterNote": "Tutorial, Ch 3",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 3,
+        "chapterMax": 3,
+        "levelMin": 4,
+        "levelMax": 4,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Halvin",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 11,
+        "levelMin": 31,
+        "levelMax": 35,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Inyoni",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Io",
+    "routes": {
+      "Cai": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 3,
+        "chapterMax": 3,
+        "levelMin": 4,
+        "levelMax": 4,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Jasmine",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 11,
+        "levelMin": 31,
+        "levelMax": 35,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 4,
+        "chapterMax": 5,
+        "levelMin": 6,
+        "levelMax": 9,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Jester",
+    "routes": {
+      "Cai": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Kiroc",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 5,
+        "chapterMax": 5,
+        "levelMin": 9,
+        "levelMax": 9,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 4,
+        "chapterMax": 5,
+        "levelMin": 6,
+        "levelMax": 9,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Lilian",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 1,
+        "chapterMax": 1,
+        "levelMin": 5,
+        "levelMax": 5,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "ch. unconfirmed",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      },
+      "Leda": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Loretta",
+    "routes": {
+      "Cai": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 11,
+        "levelMin": 31,
+        "levelMax": 35,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 6,
+        "chapterMax": 6,
+        "levelMin": 13,
+        "levelMax": 13,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 6,
+        "chapterMax": 6,
+        "levelMin": 13,
+        "levelMax": 13,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Ludia",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 11,
+        "levelMin": 31,
+        "levelMax": 35,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Lysander",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 4,
+        "chapterMax": 4,
+        "levelMin": 5,
+        "levelMax": 5,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "Ch 4",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      },
+      "Leda": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Majide",
+    "routes": {
+      "Cai": {
+        "chapterMin": 6,
+        "chapterMax": 6,
+        "levelMin": 13,
+        "levelMax": 13,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Mikaela",
+    "routes": {
+      "Cai": {
+        "chapterMin": 6,
+        "chapterMax": 6,
+        "levelMin": 13,
+        "levelMax": 13,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 4,
+        "chapterMax": 4,
+        "levelMin": 5,
+        "levelMax": 5,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "Ch 4",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Mu",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 1,
+        "chapterMax": 1,
+        "levelMin": 1,
+        "levelMax": 1,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "Ch 1",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      }
+    }
+  },
+  {
+    "character": "Nezha",
+    "routes": {
+      "Cai": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 11,
+        "chapterMax": 11,
+        "levelMin": 35,
+        "levelMax": 35,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Ninae",
+    "routes": {
+      "Cai": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Noctula",
+    "routes": {
+      "Cai": {
+        "chapterMin": 4,
+        "chapterMax": 5,
+        "levelMin": 6,
+        "levelMax": 9,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 3,
+        "chapterMax": 3,
+        "levelMin": 4,
+        "levelMax": 4,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Nydine",
+    "routes": {
+      "Cai": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 6,
+        "chapterMax": 6,
+        "levelMin": 13,
+        "levelMax": 13,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Nuzzuo",
+    "routes": {
+      "Cai": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 11,
+        "levelMin": 31,
+        "levelMax": 35,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": true,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Olympia",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 3,
+        "chapterMax": 3,
+        "levelMin": 5,
+        "levelMax": 5,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "Ch 3",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      }
+    }
+  },
+  {
+    "character": "Peppe",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": null
+    }
+  },
+  {
+    "character": "Peter",
+    "routes": {
+      "Cai": {
+        "chapterMin": 1,
+        "chapterMax": 1,
+        "levelMin": 1,
+        "levelMax": 1,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "Ch 1",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Seteth",
+    "routes": {
+      "Cai": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": null,
+      "Theodora": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Sha Lan",
+    "routes": {
+      "Cai": null,
+      "Dietrich": {
+        "chapterMin": 11,
+        "chapterMax": 11,
+        "levelMin": 35,
+        "levelMax": 35,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": null,
+      "Leda": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Simon",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Sirocco",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 11,
+        "levelMin": 31,
+        "levelMax": 35,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 6,
+        "chapterMax": 6,
+        "levelMin": 13,
+        "levelMax": 13,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 1,
+        "chapterMax": 1,
+        "levelMin": 1,
+        "levelMax": 1,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "Ch 1",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      }
+    }
+  },
+  {
+    "character": "Sofia",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 11,
+        "levelMin": 31,
+        "levelMax": 35,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 5,
+        "chapterMax": 5,
+        "levelMin": 9,
+        "levelMax": 9,
+        "confirmed": false,
+        "isAuto": true,
+        "autoChapterNote": "Tutorial, Ch 5",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      },
+      "Leda": {
+        "chapterMin": 8,
+        "chapterMax": 8,
+        "levelMin": 20,
+        "levelMax": 20,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Tialla",
+    "routes": {
+      "Cai": {
+        "chapterMin": 1,
+        "chapterMax": 1,
+        "levelMin": 1,
+        "levelMax": 1,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "Ch 1",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      },
+      "Dietrich": {
+        "chapterMin": 10,
+        "chapterMax": 11,
+        "levelMin": 31,
+        "levelMax": 35,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Tobias",
+    "routes": {
+      "Cai": null,
+      "Dietrich": null,
+      "Theodora": {
+        "chapterMin": 1,
+        "chapterMax": 1,
+        "levelMin": 1,
+        "levelMax": 1,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "Ch 1",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      },
+      "Leda": null
+    }
+  },
+  {
+    "character": "Ultand",
+    "routes": {
+      "Cai": {
+        "chapterMin": 6,
+        "chapterMax": 6,
+        "levelMin": 13,
+        "levelMax": 13,
+        "confirmed": true,
+        "isAuto": true,
+        "autoChapterNote": "Ch 6",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      },
+      "Dietrich": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 7,
+        "chapterMax": 7,
+        "levelMin": 17,
+        "levelMax": 17,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Ursula",
+    "routes": {
+      "Cai": {
+        "chapterMin": 10,
+        "chapterMax": 10,
+        "levelMin": 31,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": true,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": null
+    }
+  },
+  {
+    "character": "Yang Jie",
+    "routes": {
+      "Cai": {
+        "chapterMin": 3,
+        "chapterMax": 3,
+        "levelMin": 4,
+        "levelMax": 4,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 4,
+        "chapterMax": 4,
+        "levelMin": 6,
+        "levelMax": 6,
+        "confirmed": false,
+        "isAuto": true,
+        "autoChapterNote": "Tutorial, Ch 4",
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": true
+      },
+      "Theodora": {
+        "chapterMin": 9,
+        "chapterMax": 10,
+        "levelMin": 27,
+        "levelMax": 31,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  },
+  {
+    "character": "Zarcone",
+    "routes": {
+      "Cai": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Dietrich": {
+        "chapterMin": 9,
+        "chapterMax": 9,
+        "levelMin": 27,
+        "levelMax": 27,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Theodora": {
+        "chapterMin": 4,
+        "chapterMax": 5,
+        "levelMin": 6,
+        "levelMax": 9,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      },
+      "Leda": {
+        "chapterMin": 6,
+        "chapterMax": 6,
+        "levelMin": 13,
+        "levelMax": 13,
+        "confirmed": false,
+        "isAuto": false,
+        "autoChapterNote": null,
+        "paralogueGated": false,
+        "calendarGated": false,
+        "chapterCorrected": false
+      }
+    }
+  }
+]

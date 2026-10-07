@@ -1,0 +1,21 @@
+Mount_Species	Mount_Subtype	HP_Growth	Str_Growth	Mag_Growth	Spd_Growth	Dex_Growth	Def_Growth	Res_Growth	Lck_Growth	Cha_Growth
+Ornius	Wild Ornius	0	0	0	10	15	0	0	0	0
+Ornius	White Ornius	0	0	0	5	5	0	15	0	0
+Ornius	Meganius	0	5	0	0	5	15	0	0	0
+Ornius	Red Meganius	0	15	0	0	5	5	0	0	0
+Ornius	Magonius	0	0	15	0	10	0	0	0	0
+Ornius	Black Magonius	0	0	10	10	5	0	0	0	0
+Horse	Wild Horse	5	0	0	5	5	5	5	0	0
+Horse	Monoceros	5	0	0	5	5	0	10	0	0
+Horse	Ferghanan Horse	5	5	0	0	5	10	0	0	0
+Horse	Black Horse (EN name unverified)	5	5	0	10	5	0	0	0	0
+Horse	Unique - Rocinan	5	0	0	5	5	10	5	0	0
+Pegasus	Wild Pegasus	0	0	0	15	0	0	10	0	0
+Pegasus	Falicorn	0	5	0	15	5	0	0	0	0
+Pegasus	Red Falicorn (EN name unverified)	0	10	0	10	5	0	0	0	0
+Pegasus	Dark Pegasus	0	0	15	10	0	0	0	0	0
+Pegasus	Unique - Bucephalus	0	5	0	15	0	0	10	0	0
+Bau	Wild Bau	0	10	0	5	10	0	0	0	0
+Bau	Red Bau	0	15	0	0	10	0	0	0	0
+Bau	Black Bau	0	10	0	15	0	0	0	0	0
+Elephant	Salamis War Elephant	5	5	0	0	5	5	0	5	0

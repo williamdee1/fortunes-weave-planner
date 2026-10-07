@@ -1,0 +1,61 @@
+Name	HP	Str	Mag	Spd	Dex	Def	Res	Lck	Cha	Horse	Ornius	Pegasus	Bau	Elephant	Wyvern	Griffon	Tier	Ideal_Exam_Level	Renown_Req
+Noble	0	0	0	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Base	N/A	N/A
+Commoner	0	0	0	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Base	N/A	N/A
+Gladiator	10	10	0	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Beginner	5	1
+Hunter	10	0	0	10	10	0	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Beginner	5	1
+Soldier	10	5	0	-5	5	10	0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Beginner	5	1
+Ornius Rider	10	0	0	10	0	0	5	5	0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	Beginner	5	1
+Diviner	5	-5	15	0	5	-5	10	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Beginner	5	1
+Myrmidon	10	0	0	15	10	0	0	5	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Specialty	20	4
+Brigand	15	15	-5	5	0	5	0	0	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Specialty	20	4
+Pugilist	15	10	-5	10	5	10	0	0	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Specialty	20	4
+Archer	10	0	0	10	15	5	0	5	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Specialty	20	4
+Rogue	10	0	0	15	10	0	5	5	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Specialty	20	4
+Armored Knight	10	10	-5	-5	5	25	-5	0	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Specialty	20	4
+Light Cavalry	10	5	-5	5	0	5	0	5	10	1.0	0.0	0.0	0.0	0.0	0.0	0.0	Specialty	20	4
+Charioteer	10	5	-5	-5	15	10	0	5	10	2.0	0.0	0.0	0.0	0.0	0.0	0.0	Specialty	20	4
+Armored Ornius Rider	10	0	-5	10	5	10	0	5	5	0.0	1.0	0.0	0.0	0.0	0.0	0.0	Specialty	20	4
+Wing Soldier	10	0	5	0	5	5	5	5	10	0.0	0.0	1.0	0.0	0.0	0.0	0.0	Specialty	20	4
+Shaman	5	-5	15	10	10	-10	10	10	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Specialty	20	4
+Priest	5	-5	10	5	5	-10	15	15	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Specialty	20	4
+Shido	10	5	0	15	10	0	-5	5	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Warrior	20	20	-5	0	0	5	-5	0	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Blacksmith	15	10	10	0	5	10	10	0	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Sniper	10	5	0	10	20	5	5	5	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Forest Knight	10	5	0	10	10	5	5	5	5	1.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Ranger	10	5	0	15	15	0	10	15	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Guardian	10	10	0	0	5	10	15	5	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Dreadnought	15	15	-5	-10	5	30	-10	0	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Bardinger	10	10	-5	0	0	5	10	5	10	1.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Elephant Rider	20	10	-5	-10	20	15	-5	5	10	0.0	0.0	0.0	0.0	1.0	0.0	0.0	Advanced	35	Part 3
+Caladrius	15	0	10	5	10	10	10	5	5	0.0	1.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Dragoon	15	5	0	0	5	10	10	10	5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	Advanced	35	8
+Ovate	10	-5	20	5	15	-10	15	10	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Bishop	10	-5	15	0	5	-10	20	20	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Troubadour	10	0	15	5	5	5	15	15	10	1.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Dancer	15	5	0	25	10	0	5	10	20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Cataphract	15	15	-5	-10	0	10	-5	0	5	1.0	0.0	0.0	0.0	0.0	0.0	0.0	Advanced	35	8
+Swordmaster	15	10	0	20	15	0	0	5	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+High Savant	10	15	15	10	5	5	5	5	5	1.0	0.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+Battlemaster	25	25	-5	-5	5	10	-5	-5	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+War Monk	15	10	0	15	0	5	15	5	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+Bow Adept	15	5	0	15	20	5	5	5	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+Bow Knight	10	10	0	15	10	5	0	5	5	1.0	0.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+Shadow Seeker	15	5	0	15	25	0	10	15	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+Sentinel	15	15	0	5	5	10	15	5	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+Castle Knight	25	20	-5	-15	5	30	-10	0	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+Orichaldia	15	15	-5	5	0	5	5	5	10	0.0	1.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+Great Knight	20	20	-5	-10	0	15	-10	0	5	1.0	0.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+Celestial Trooper	15	5	-5	10	5	5	15	15	10	0.0	0.0	1.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+Bau Lord	15	5	0	5	0	10	10	10	5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	Master	45	Part 3
+Druid	10	-5	30	15	10	-10	20	10	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+Wiseman	10	-5	20	0	5	-10	25	20	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+Valkyrium	10	0	15	5	5	5	10	15	10	1.0	0.0	0.0	0.0	0.0	0.0	0.0	Master	45	Part 3
+The Blade	15	10	10	20	20	5	5	5	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Divine	None	Part 3
+The Apsara	15	5	10	25	15	5	5	10	30	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Divine	None	Part 3
+The Eternal	30	30	0	10	0	15	0	0	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Divine	None	Part 3
+The Godhand	15	10	10	15	5	10	15	5	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Divine	None	Part 3
+The Calamity	15	5	15	25	20	5	15	15	5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Divine	None	Part 3
+The Trident	15	15	5	10	10	15	15	5	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Divine	None	Part 3
+The Cavalier	20	15	5	10	10	15	10	5	15	1.0	0.0	0.0	0.0	0.0	0.0	0.0	Divine	None	Part 3
+The Avatar	10	-5	30	10	5	-5	30	20	10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	Divine	None	Part 3

@@ -1,0 +1,51 @@
+{
+  "_comment": "Manual overrides for disputed or missing data. Edit this file, never the generated JSON in src/data/.",
+
+  "tierOverrides": {
+    "_comment": "Override class tier if a source disagrees. e.g. { \"ClassName\": \"Advanced\" }"
+  },
+
+  "skillRequirementsOverrides": {
+    "_comment": "Override or fill in unknown skill requirements per class.",
+    "Guardian": { "requirements": null, "note": "TODO(data): skill requirements unknown" },
+    "Cataphract": { "requirements": "Heavy Armor E+, Riding D, plus Axe B or Spear B", "note": "From CLAUDE.md §3.3" }
+  },
+
+  "disputedClasses": [
+    {
+      "class": "Nydine",
+      "note": "Recruitment requirements differ between Raider King (2x Bronze Axes all routes) and other sources (3x Iron Axes on Theodora/Leda)."
+    },
+    {
+      "class": "Yang Jie",
+      "note": "Theodora requirements: Raider King says Support 1 / Renown 9; others agree Support 3 / Renown 9."
+    },
+    {
+      "class": "Esmeralda",
+      "note": "Cai route: Raider King says Support 2, RPG Site and GamesHedge say Support 3."
+    }
+  ],
+
+  "userBaseStats": {
+    "_comment": "Add rows here for recruitable characters whose stats you've observed in your save. Format matches base_stats.txt columns.",
+    "_example": {
+      "Name": "Catania",
+      "Level": 20,
+      "Starting_Class": "Hunter",
+      "HP": 31, "Str": 15, "Mag": 5, "Spd": 24, "Dex": 21, "Def": 13, "Res": 9, "Lck": 11, "Cha": 10,
+      "Source": "User save (Leda route, Ch 4 auto-recruit)"
+    }
+  },
+
+  "laterGameJoinLevelDefault": 38,
+
+  "todoData": [
+    "TODO(data): Skill requirements for Guardian are unknown.",
+    "TODO(data): Confirm Cataphract skill requirements on non-Theodora routes.",
+    "TODO(data): Whether Charioteer mount doubling (2.0) and Charioteer's Path stack exactly as modelled.",
+    "TODO(data): Part II and Part III start levels are user-configurable defaults.",
+    "TODO(data): English names for 'Black Horse' and 'Red Falicorn' are unverified translations from KR community DB.",
+    "TODO(data): Whether recruits join at fixed per-chapter level or scale to army level is unconfirmed.",
+    "TODO(data): Stat caps and level cap are unknown; timeline capped at 99, target defaults to 50."
+  ]
+}

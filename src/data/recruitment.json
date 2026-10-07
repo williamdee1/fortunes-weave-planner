@@ -1,0 +1,1267 @@
+[
+  {
+    "character": "Alexandra",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 7,
+        "extraCondition": null
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": null
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 6,
+        "extraCondition": null
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": null
+      }
+    }
+  },
+  {
+    "character": "Benditz",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": null
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 7,
+        "extraCondition": null
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 8,
+        "extraCondition": null
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": null
+      }
+    }
+  },
+  {
+    "character": "Bonaventure",
+    "routes": {
+      "Cai": {
+        "type": "unrecruitable"
+      },
+      "Dietrich": {
+        "type": "unrecruitable"
+      },
+      "Theodora": {
+        "type": "auto",
+        "chapter": 1,
+        "chapterNote": "Chapter 1 Story"
+      },
+      "Leda": {
+        "type": "unrecruitable"
+      }
+    }
+  },
+  {
+    "character": "Buccar",
+    "routes": {
+      "Cai": {
+        "type": "unrecruitable"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Clear Leda's Paralogue"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Clear Leda's Paralogue"
+      },
+      "Leda": {
+        "type": "auto",
+        "chapter": null,
+        "chapterNote": ""
+      }
+    }
+  },
+  {
+    "character": "Catania",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": null
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 8,
+        "extraCondition": null
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": null
+      },
+      "Leda": {
+        "type": "auto",
+        "chapter": null,
+        "chapterNote": "Recruitment Tutorial"
+      }
+    }
+  },
+  {
+    "character": "Dadao",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Requires 2x Kothar Gar"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Requires 2x Kothar Gar"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 5,
+        "extraCondition": "Requires 2x Kothar Gar"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 5,
+        "extraCondition": "Requires 2x Kothar Gar"
+      }
+    }
+  },
+  {
+    "character": "Dante",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Requires 8,000 Gold"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 8,
+        "extraCondition": "Requires 8,000 Gold"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Requires 8,000 Gold"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Requires 8,000 Gold"
+      }
+    }
+  },
+  {
+    "character": "Diego",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Clear Orchel's Paralogue"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Clear Orchel's Paralogue"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 8,
+        "extraCondition": "Clear Orchel's Paralogue"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Clear Orchel's Paralogue"
+      }
+    }
+  },
+  {
+    "character": "Esmeralda",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Quest"
+      },
+      "Dietrich": {
+        "type": "auto",
+        "chapter": 2,
+        "chapterNote": "Chapter 2 Story"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Quest"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Quest"
+      }
+    }
+  },
+  {
+    "character": "Fabio",
+    "routes": {
+      "Cai": {
+        "type": "unrecruitable"
+      },
+      "Dietrich": {
+        "type": "auto",
+        "chapter": 1,
+        "chapterNote": "Chapter 1 Story"
+      },
+      "Theodora": {
+        "type": "unrecruitable"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Clear Dietrich's Paralogue + Dietrich's team eliminated, ~Ch. 12 + Suitable item"
+      }
+    }
+  },
+  {
+    "character": "Fianna",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Requires 3,000 Gold"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Requires 3,000 Gold"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Requires 3,000 Gold"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 5,
+        "extraCondition": "Requires 3,000 Gold"
+      }
+    }
+  },
+  {
+    "character": "Gaitz",
+    "routes": {
+      "Cai": {
+        "type": "unrecruitable"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Clear Bertrand's Paralogue + Bertrand's team eliminated, ~Ch. 12"
+      },
+      "Theodora": {
+        "type": "unrecruitable"
+      },
+      "Leda": {
+        "type": "unrecruitable"
+      }
+    }
+  },
+  {
+    "character": "Goliath",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Requires 3x Giant's Meat"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Requires 3x Giant's Meat"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Requires 3x Giant's Meat"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Requires 3x Giant's Meat"
+      }
+    }
+  },
+  {
+    "character": "Guzran",
+    "routes": {
+      "Cai": {
+        "type": "auto",
+        "chapter": null,
+        "chapterNote": "Recruitment Tutorial"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": null
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": null
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 3,
+        "extraCondition": null
+      }
+    }
+  },
+  {
+    "character": "Halvin",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Requires 10x Dates"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Requires 10x Dates"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Requires 10x Dates"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Requires 10x Dates"
+      }
+    }
+  },
+  {
+    "character": "Inyoni",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Requires 6,000 Gold"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Requires 6,000 Gold"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 9,
+        "extraCondition": "Requires 4,000 Gold"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 7,
+        "extraCondition": "Requires 3,000 Gold"
+      }
+    }
+  },
+  {
+    "character": "Io",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Requires 4,000 Gold"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 3,
+        "extraCondition": "Requires 800 Gold"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Requires 4,000 Gold"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 6,
+        "extraCondition": "Requires 1,500 Gold"
+      }
+    }
+  },
+  {
+    "character": "Jasmine",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 8,
+        "extraCondition": "Requires 2,000 Gold"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Requires 5,000 Gold"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Requires 5,000 Gold"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 4,
+        "extraCondition": "Requires 500 Gold"
+      }
+    }
+  },
+  {
+    "character": "Jester",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Complete 3 local quests"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Complete 3 local quests"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Complete 3 local quests"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Complete 3 local quests"
+      }
+    }
+  },
+  {
+    "character": "Kiroc",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Requires 8x Pure Water"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 4,
+        "extraCondition": "Requires 3x Pure Water"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Requires 8x Pure Water"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 4,
+        "extraCondition": "Requires 3x Pure Water"
+      }
+    }
+  },
+  {
+    "character": "Lilian",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 8,
+        "extraCondition": "Requires 5,000 Gold"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 8,
+        "extraCondition": "Requires 5,000 Gold"
+      },
+      "Theodora": {
+        "type": "auto",
+        "chapter": null,
+        "chapterNote": ""
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 7,
+        "extraCondition": "Requires 5,000 Gold"
+      }
+    }
+  },
+  {
+    "character": "Loretta",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Requires 3x Iron Swords"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Requires 3x Iron Swords"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 5,
+        "extraCondition": "Requires 3x Iron Swords"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 5,
+        "extraCondition": "Requires 3x Iron Swords"
+      }
+    }
+  },
+  {
+    "character": "Ludia",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Quest"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Quest"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Quest"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Quest"
+      }
+    }
+  },
+  {
+    "character": "Lysander",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Requires 5x Iron Spears"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Requires 5x Iron Spears"
+      },
+      "Theodora": {
+        "type": "auto",
+        "chapter": 4,
+        "chapterNote": "Chapter 4 Story"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Requires 5x Iron Spears"
+      }
+    }
+  },
+  {
+    "character": "Majide",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 5,
+        "extraCondition": "Query answers 3x"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Query answers 3x"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Query answers 3x"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Query answers 3x"
+      }
+    }
+  },
+  {
+    "character": "Mikaela",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 5,
+        "extraCondition": "Requires 3,000 Gold"
+      },
+      "Dietrich": {
+        "type": "auto",
+        "chapter": 4,
+        "chapterNote": "Chapter 4 Story"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Requires 3,000 Gold"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Requires 3,000 Gold"
+      }
+    }
+  },
+  {
+    "character": "Mu",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Requires 3x Glimrosa"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Requires 3x Glimrosa"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Requires 3x Glimrosa"
+      },
+      "Leda": {
+        "type": "auto",
+        "chapter": 1,
+        "chapterNote": "Chapter 1 Story"
+      }
+    }
+  },
+  {
+    "character": "Nezha",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Requires 3x Sandworm Meat"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Requires 3x Sandworm Meat"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 6,
+        "extraCondition": "Requires 3x Sandworm Meat"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Requires 3x Sandworm Meat"
+      }
+    }
+  },
+  {
+    "character": "Ninae",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Requires 1x Paradise Fish"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Requires 1x Paradise Fish"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Requires 1x Paradise Fish"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Requires 1x Paradise Fish"
+      }
+    }
+  },
+  {
+    "character": "Noctula",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 4,
+        "extraCondition": null
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 6,
+        "extraCondition": null
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 3,
+        "extraCondition": null
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": null
+      }
+    }
+  },
+  {
+    "character": "Nydine",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 6,
+        "extraCondition": "Requires 2x Bronze Axes"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 5,
+        "extraCondition": "Requires 2x Bronze Axes"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 5,
+        "extraCondition": "Requires 3x Iron Axes †"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Requires 3x Iron Axes †"
+      }
+    }
+  },
+  {
+    "character": "Nuzzuo",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 6,
+        "extraCondition": "Requires 3x Iron Bows"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 9,
+        "extraCondition": "Requires 2x Iron Bows"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 6,
+        "extraCondition": "Requires 3x Iron Bows"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Requires 3x Iron Bows"
+      }
+    }
+  },
+  {
+    "character": "Olympia",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Complete 3 quests"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Complete 3 quests"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Complete 3 quests"
+      },
+      "Leda": {
+        "type": "auto",
+        "chapter": 3,
+        "chapterNote": "Chapter 3 Story"
+      }
+    }
+  },
+  {
+    "character": "Peppe",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 9,
+        "extraCondition": "Clear Bertrand's Paralogue"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Clear Bertrand's Paralogue"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 7,
+        "extraCondition": "Clear Bertrand's Paralogue"
+      },
+      "Leda": {
+        "type": "unrecruitable"
+      }
+    }
+  },
+  {
+    "character": "Peter",
+    "routes": {
+      "Cai": {
+        "type": "auto",
+        "chapter": 1,
+        "chapterNote": "Chapter 1 Story"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Quest"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Quest"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Quest"
+      }
+    }
+  },
+  {
+    "character": "Seteth",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Quest"
+      },
+      "Dietrich": {
+        "type": "unrecruitable"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Quest"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Quest"
+      }
+    }
+  },
+  {
+    "character": "Sha Lan",
+    "routes": {
+      "Cai": {
+        "type": "unrecruitable"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Clear Anatolia's Paralogue + Answer questions: Saramis, Da Mina, Grounded Ship"
+      },
+      "Theodora": {
+        "type": "unrecruitable"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Clear Anatolia's Paralogue + Answer questions: Saramis, Da Mina, Grounded Ship"
+      }
+    }
+  },
+  {
+    "character": "Simon",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Coin flip: pick Tails"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Coin flip: pick Tails"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Coin flip: pick Tails"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Coin flip: pick Tails"
+      }
+    }
+  },
+  {
+    "character": "Sirocco",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Quest"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Quest"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 5,
+        "extraCondition": "Quest"
+      },
+      "Leda": {
+        "type": "auto",
+        "chapter": null,
+        "chapterNote": ""
+      }
+    }
+  },
+  {
+    "character": "Sofia",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": null
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": null
+      },
+      "Theodora": {
+        "type": "auto",
+        "chapter": null,
+        "chapterNote": "Recruitment Tutorial"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": null
+      }
+    }
+  },
+  {
+    "character": "Tialla",
+    "routes": {
+      "Cai": {
+        "type": "auto",
+        "chapter": 1,
+        "chapterNote": "Chapter 1 Story"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Clear Cai's Paralogue + 3,000 Gold"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Clear Cai's Paralogue + 3,000 Gold"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Clear Cai's Paralogue + 3,000 Gold"
+      }
+    }
+  },
+  {
+    "character": "Tobias",
+    "routes": {
+      "Cai": {
+        "type": "unrecruitable"
+      },
+      "Dietrich": {
+        "type": "unrecruitable"
+      },
+      "Theodora": {
+        "type": "auto",
+        "chapter": 1,
+        "chapterNote": "Chapter 1 Story"
+      },
+      "Leda": {
+        "type": "unrecruitable"
+      }
+    }
+  },
+  {
+    "character": "Ultand",
+    "routes": {
+      "Cai": {
+        "type": "auto",
+        "chapter": 6,
+        "chapterNote": "Chapter 6 Story"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 5,
+        "extraCondition": "Ultand's Request"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 6,
+        "extraCondition": "Ultand's Request"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Ultand's Request"
+      }
+    }
+  },
+  {
+    "character": "Ursula",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 10,
+        "extraCondition": "Clear Talimun's Paralogue + Answer \"Yes\" 3x"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Clear Talimun's Paralogue + Answer \"Yes\" 3x"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Clear Talimun's Paralogue + Answer \"Yes\" 3x"
+      },
+      "Leda": {
+        "type": "unrecruitable"
+      }
+    }
+  },
+  {
+    "character": "Yang Jie",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 3,
+        "extraCondition": "Quiz: Cheese, Moon, Potatoes"
+      },
+      "Dietrich": {
+        "type": "auto",
+        "chapter": null,
+        "chapterNote": "Recruitment Tutorial"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 9,
+        "extraCondition": "Quiz: Cheese, Moon, Potatoes †"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Quiz: Cheese, Moon, Potatoes"
+      }
+    }
+  },
+  {
+    "character": "Zarcone",
+    "routes": {
+      "Cai": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 8,
+        "extraCondition": "Negotiate fee, can go down to 10 Gold"
+      },
+      "Dietrich": {
+        "type": "normal",
+        "supportRequired": 3,
+        "renownRequired": 7,
+        "extraCondition": "Negotiate fee"
+      },
+      "Theodora": {
+        "type": "normal",
+        "supportRequired": 1,
+        "renownRequired": 4,
+        "extraCondition": "Negotiate fee"
+      },
+      "Leda": {
+        "type": "normal",
+        "supportRequired": 2,
+        "renownRequired": 5,
+        "extraCondition": "Negotiate fee"
+      }
+    }
+  }
+]

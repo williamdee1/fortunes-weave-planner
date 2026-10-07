@@ -1,0 +1,53 @@
+[
+  {
+    "className": "Charioteer",
+    "abilityName": "Charioteer's Path",
+    "fromLevel": 35,
+    "growths": {
+      "HP": 10,
+      "Str": 5,
+      "Mag": 5,
+      "Spd": 5,
+      "Dex": 5,
+      "Def": 5,
+      "Res": 0,
+      "Lck": 0,
+      "Cha": 0
+    },
+    "sourceConfidence": "Medium (KR community DB; player reports)"
+  },
+  {
+    "className": "Charioteer",
+    "abilityName": "Charioteer's Path",
+    "fromLevel": 45,
+    "growths": {
+      "HP": 10,
+      "Str": 15,
+      "Mag": 5,
+      "Spd": 5,
+      "Dex": 10,
+      "Def": 15,
+      "Res": 0,
+      "Lck": 5,
+      "Cha": 0
+    },
+    "sourceConfidence": "Medium (KR community DB; player reports)"
+  },
+  {
+    "className": "Elephant Rider",
+    "abilityName": "Elephant Rider's Path",
+    "fromLevel": 45,
+    "growths": {
+      "HP": 10,
+      "Str": 10,
+      "Mag": 0,
+      "Spd": 0,
+      "Dex": 10,
+      "Def": 10,
+      "Res": 10,
+      "Lck": 0,
+      "Cha": 0
+    },
+    "sourceConfidence": "Medium (KR community DB; matches forum report)"
+  }
+]

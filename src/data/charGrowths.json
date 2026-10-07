@@ -1,0 +1,957 @@
+[
+  {
+    "name": "Eshmel",
+    "growths": {
+      "HP": 50,
+      "Str": 45,
+      "Mag": 45,
+      "Spd": 45,
+      "Dex": 45,
+      "Def": 35,
+      "Res": 35,
+      "Lck": 40,
+      "Cha": 50
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Cai",
+    "growths": {
+      "HP": 45,
+      "Str": 45,
+      "Mag": 40,
+      "Spd": 45,
+      "Dex": 45,
+      "Def": 35,
+      "Res": 35,
+      "Lck": 40,
+      "Cha": 40
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Tialla",
+    "growths": {
+      "HP": 30,
+      "Str": 25,
+      "Mag": 45,
+      "Spd": 35,
+      "Dex": 40,
+      "Def": 20,
+      "Res": 40,
+      "Lck": 50,
+      "Cha": 45
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Peter",
+    "growths": {
+      "HP": 40,
+      "Str": 35,
+      "Mag": 20,
+      "Spd": 45,
+      "Dex": 60,
+      "Def": 30,
+      "Res": 25,
+      "Lck": 35,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Ultand",
+    "growths": {
+      "HP": 45,
+      "Str": 40,
+      "Mag": 40,
+      "Spd": 35,
+      "Dex": 40,
+      "Def": 35,
+      "Res": 45,
+      "Lck": 55,
+      "Cha": 50
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Bertrand",
+    "growths": {
+      "HP": 50,
+      "Str": 55,
+      "Mag": 15,
+      "Spd": 45,
+      "Dex": 50,
+      "Def": 45,
+      "Res": 20,
+      "Lck": 30,
+      "Cha": 50
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Gaitz",
+    "growths": {
+      "HP": 50,
+      "Str": 50,
+      "Mag": 20,
+      "Spd": 40,
+      "Dex": 45,
+      "Def": 45,
+      "Res": 25,
+      "Lck": 40,
+      "Cha": 45
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Jester",
+    "growths": {
+      "HP": 40,
+      "Str": 35,
+      "Mag": 15,
+      "Spd": 60,
+      "Dex": 45,
+      "Def": 35,
+      "Res": 25,
+      "Lck": 40,
+      "Cha": 40
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Goliath",
+    "growths": {
+      "HP": 55,
+      "Str": 60,
+      "Mag": 5,
+      "Spd": 15,
+      "Dex": 30,
+      "Def": 50,
+      "Res": 20,
+      "Lck": 35,
+      "Cha": 20
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Dante",
+    "growths": {
+      "HP": 30,
+      "Str": 30,
+      "Mag": 45,
+      "Spd": 40,
+      "Dex": 40,
+      "Def": 20,
+      "Res": 40,
+      "Lck": 45,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Dietrich",
+    "growths": {
+      "HP": 50,
+      "Str": 45,
+      "Mag": 30,
+      "Spd": 50,
+      "Dex": 60,
+      "Def": 40,
+      "Res": 30,
+      "Lck": 50,
+      "Cha": 60
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Fabio",
+    "growths": {
+      "HP": 40,
+      "Str": 25,
+      "Mag": 50,
+      "Spd": 35,
+      "Dex": 40,
+      "Def": 30,
+      "Res": 45,
+      "Lck": 35,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Esmeralda",
+    "growths": {
+      "HP": 55,
+      "Str": 55,
+      "Mag": 20,
+      "Spd": 35,
+      "Dex": 35,
+      "Def": 45,
+      "Res": 25,
+      "Lck": 35,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Mikaela",
+    "growths": {
+      "HP": 50,
+      "Str": 45,
+      "Mag": 30,
+      "Spd": 40,
+      "Dex": 35,
+      "Def": 40,
+      "Res": 25,
+      "Lck": 30,
+      "Cha": 40
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Orchel",
+    "growths": {
+      "HP": 30,
+      "Str": 60,
+      "Mag": 45,
+      "Spd": 10,
+      "Dex": 20,
+      "Def": 60,
+      "Res": 60,
+      "Lck": 20,
+      "Cha": 60
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Diego",
+    "growths": {
+      "HP": 45,
+      "Str": 40,
+      "Mag": 20,
+      "Spd": 45,
+      "Dex": 60,
+      "Def": 35,
+      "Res": 20,
+      "Lck": 35,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Loretta",
+    "growths": {
+      "HP": 35,
+      "Str": 35,
+      "Mag": 35,
+      "Spd": 55,
+      "Dex": 40,
+      "Def": 30,
+      "Res": 40,
+      "Lck": 30,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Seteth",
+    "growths": {
+      "HP": 45,
+      "Str": 45,
+      "Mag": 30,
+      "Spd": 40,
+      "Dex": 45,
+      "Def": 40,
+      "Res": 35,
+      "Lck": 30,
+      "Cha": 50
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Ninae",
+    "growths": {
+      "HP": 45,
+      "Str": 45,
+      "Mag": 35,
+      "Spd": 35,
+      "Dex": 45,
+      "Def": 35,
+      "Res": 45,
+      "Lck": 50,
+      "Cha": 40
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Theodora",
+    "growths": {
+      "HP": 70,
+      "Str": 50,
+      "Mag": 30,
+      "Spd": 40,
+      "Dex": 40,
+      "Def": 40,
+      "Res": 30,
+      "Lck": 30,
+      "Cha": 50
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Bonaventure",
+    "growths": {
+      "HP": 35,
+      "Str": 35,
+      "Mag": 45,
+      "Spd": 40,
+      "Dex": 50,
+      "Def": 30,
+      "Res": 40,
+      "Lck": 35,
+      "Cha": 40
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Tobias",
+    "growths": {
+      "HP": 55,
+      "Str": 60,
+      "Mag": 15,
+      "Spd": 25,
+      "Dex": 30,
+      "Def": 45,
+      "Res": 20,
+      "Lck": 40,
+      "Cha": 35
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Lilian",
+    "growths": {
+      "HP": 35,
+      "Str": 35,
+      "Mag": 30,
+      "Spd": 40,
+      "Dex": 55,
+      "Def": 30,
+      "Res": 35,
+      "Lck": 50,
+      "Cha": 25
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Lysander",
+    "growths": {
+      "HP": 45,
+      "Str": 40,
+      "Mag": 25,
+      "Spd": 50,
+      "Dex": 35,
+      "Def": 40,
+      "Res": 25,
+      "Lck": 30,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Talimun",
+    "growths": {
+      "HP": 45,
+      "Str": 40,
+      "Mag": 45,
+      "Spd": 40,
+      "Dex": 45,
+      "Def": 35,
+      "Res": 40,
+      "Lck": 60,
+      "Cha": 50
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Ursula",
+    "growths": {
+      "HP": 40,
+      "Str": 35,
+      "Mag": 35,
+      "Spd": 50,
+      "Dex": 50,
+      "Def": 35,
+      "Res": 30,
+      "Lck": 40,
+      "Cha": 45
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Ludia",
+    "growths": {
+      "HP": 40,
+      "Str": 35,
+      "Mag": 20,
+      "Spd": 55,
+      "Dex": 45,
+      "Def": 30,
+      "Res": 20,
+      "Lck": 30,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Simon",
+    "growths": {
+      "HP": 50,
+      "Str": 50,
+      "Mag": 20,
+      "Spd": 35,
+      "Dex": 40,
+      "Def": 40,
+      "Res": 25,
+      "Lck": 50,
+      "Cha": 35
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Fianna",
+    "growths": {
+      "HP": 30,
+      "Str": 35,
+      "Mag": 55,
+      "Spd": 30,
+      "Dex": 40,
+      "Def": 20,
+      "Res": 45,
+      "Lck": 25,
+      "Cha": 40
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Leda",
+    "growths": {
+      "HP": 40,
+      "Str": 35,
+      "Mag": 35,
+      "Spd": 65,
+      "Dex": 50,
+      "Def": 30,
+      "Res": 35,
+      "Lck": 25,
+      "Cha": 55
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Buccar",
+    "growths": {
+      "HP": 50,
+      "Str": 50,
+      "Mag": 20,
+      "Spd": 25,
+      "Dex": 40,
+      "Def": 45,
+      "Res": 20,
+      "Lck": 30,
+      "Cha": 35
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Sirocco",
+    "growths": {
+      "HP": 40,
+      "Str": 40,
+      "Mag": 40,
+      "Spd": 45,
+      "Dex": 50,
+      "Def": 35,
+      "Res": 35,
+      "Lck": 50,
+      "Cha": 45
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Olympia",
+    "growths": {
+      "HP": 35,
+      "Str": 35,
+      "Mag": 50,
+      "Spd": 35,
+      "Dex": 35,
+      "Def": 30,
+      "Res": 40,
+      "Lck": 40,
+      "Cha": 40
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Mu",
+    "growths": {
+      "HP": 50,
+      "Str": 50,
+      "Mag": 25,
+      "Spd": 50,
+      "Dex": 50,
+      "Def": 40,
+      "Res": 30,
+      "Lck": 30,
+      "Cha": 40
+    },
+    "baseGrowthsWithoutAbility": {
+      "HP": 30,
+      "Str": 30,
+      "Mag": 5,
+      "Spd": 30,
+      "Dex": 30,
+      "Def": 20,
+      "Res": 10,
+      "Lck": 10,
+      "Cha": 20
+    }
+  },
+  {
+    "name": "Anatolia",
+    "growths": {
+      "HP": 40,
+      "Str": 35,
+      "Mag": 50,
+      "Spd": 50,
+      "Dex": 45,
+      "Def": 35,
+      "Res": 40,
+      "Lck": 40,
+      "Cha": 50
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Sha Lan",
+    "growths": {
+      "HP": 35,
+      "Str": 30,
+      "Mag": 45,
+      "Spd": 35,
+      "Dex": 50,
+      "Def": 30,
+      "Res": 45,
+      "Lck": 35,
+      "Cha": 40
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Nezha",
+    "growths": {
+      "HP": 45,
+      "Str": 45,
+      "Mag": 25,
+      "Spd": 45,
+      "Dex": 50,
+      "Def": 35,
+      "Res": 25,
+      "Lck": 30,
+      "Cha": 25
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Dadao",
+    "growths": {
+      "HP": 50,
+      "Str": 55,
+      "Mag": 20,
+      "Spd": 30,
+      "Dex": 35,
+      "Def": 45,
+      "Res": 20,
+      "Lck": 25,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Halvin",
+    "growths": {
+      "HP": 35,
+      "Str": 35,
+      "Mag": 30,
+      "Spd": 45,
+      "Dex": 60,
+      "Def": 30,
+      "Res": 25,
+      "Lck": 40,
+      "Cha": 35
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Hong Hua",
+    "growths": {
+      "HP": 40,
+      "Str": 30,
+      "Mag": 45,
+      "Spd": 45,
+      "Dex": 45,
+      "Def": 30,
+      "Res": 45,
+      "Lck": 30,
+      "Cha": 40
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Troy",
+    "growths": {
+      "HP": 40,
+      "Str": 45,
+      "Mag": 45,
+      "Spd": 50,
+      "Dex": 40,
+      "Def": 30,
+      "Res": 30,
+      "Lck": 30,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Guzran",
+    "growths": {
+      "HP": 45,
+      "Str": 45,
+      "Mag": 20,
+      "Spd": 50,
+      "Dex": 45,
+      "Def": 35,
+      "Res": 20,
+      "Lck": 45,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Yang Jie",
+    "growths": {
+      "HP": 50,
+      "Str": 30,
+      "Mag": 40,
+      "Spd": 35,
+      "Dex": 35,
+      "Def": 30,
+      "Res": 40,
+      "Lck": 40,
+      "Cha": 25
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Io",
+    "growths": {
+      "HP": 45,
+      "Str": 40,
+      "Mag": 25,
+      "Spd": 35,
+      "Dex": 45,
+      "Def": 40,
+      "Res": 25,
+      "Lck": 35,
+      "Cha": 35
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Peppe",
+    "growths": {
+      "HP": 30,
+      "Str": 30,
+      "Mag": 25,
+      "Spd": 60,
+      "Dex": 45,
+      "Def": 30,
+      "Res": 30,
+      "Lck": 45,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Noctula",
+    "growths": {
+      "HP": 50,
+      "Str": 45,
+      "Mag": 20,
+      "Spd": 45,
+      "Dex": 40,
+      "Def": 40,
+      "Res": 20,
+      "Lck": 35,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Sofia",
+    "growths": {
+      "HP": 35,
+      "Str": 30,
+      "Mag": 45,
+      "Spd": 30,
+      "Dex": 40,
+      "Def": 25,
+      "Res": 40,
+      "Lck": 30,
+      "Cha": 40
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Catania",
+    "growths": {
+      "HP": 35,
+      "Str": 35,
+      "Mag": 35,
+      "Spd": 55,
+      "Dex": 50,
+      "Def": 30,
+      "Res": 35,
+      "Lck": 40,
+      "Cha": 45
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Nydine",
+    "growths": {
+      "HP": 45,
+      "Str": 40,
+      "Mag": 30,
+      "Spd": 45,
+      "Dex": 40,
+      "Def": 30,
+      "Res": 25,
+      "Lck": 35,
+      "Cha": 35
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Zarcone",
+    "growths": {
+      "HP": 40,
+      "Str": 30,
+      "Mag": 20,
+      "Spd": 35,
+      "Dex": 60,
+      "Def": 30,
+      "Res": 25,
+      "Lck": 30,
+      "Cha": 15
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Majide",
+    "growths": {
+      "HP": 65,
+      "Str": 50,
+      "Mag": 15,
+      "Spd": 20,
+      "Dex": 30,
+      "Def": 40,
+      "Res": 10,
+      "Lck": 25,
+      "Cha": 5
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Benditz",
+    "growths": {
+      "HP": 50,
+      "Str": 35,
+      "Mag": 20,
+      "Spd": 35,
+      "Dex": 50,
+      "Def": 35,
+      "Res": 25,
+      "Lck": 30,
+      "Cha": 35
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Inyoni",
+    "growths": {
+      "HP": 40,
+      "Str": 50,
+      "Mag": 20,
+      "Spd": 35,
+      "Dex": 40,
+      "Def": 40,
+      "Res": 30,
+      "Lck": 40,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Jasmine",
+    "growths": {
+      "HP": 50,
+      "Str": 40,
+      "Mag": 20,
+      "Spd": 30,
+      "Dex": 45,
+      "Def": 45,
+      "Res": 25,
+      "Lck": 40,
+      "Cha": 45
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Alexandra",
+    "growths": {
+      "HP": 30,
+      "Str": 35,
+      "Mag": 35,
+      "Spd": 55,
+      "Dex": 45,
+      "Def": 30,
+      "Res": 40,
+      "Lck": 50,
+      "Cha": 50
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Nuzzuo",
+    "growths": {
+      "HP": 50,
+      "Str": 50,
+      "Mag": 15,
+      "Spd": 55,
+      "Dex": 45,
+      "Def": 20,
+      "Res": 15,
+      "Lck": 25,
+      "Cha": 35
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Centurio",
+    "growths": {
+      "HP": 45,
+      "Str": 45,
+      "Mag": 25,
+      "Spd": 40,
+      "Dex": 50,
+      "Def": 50,
+      "Res": 30,
+      "Lck": 30,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Aswan",
+    "growths": {
+      "HP": 40,
+      "Str": 35,
+      "Mag": 10,
+      "Spd": 40,
+      "Dex": 50,
+      "Def": 30,
+      "Res": 15,
+      "Lck": 30,
+      "Cha": 20
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Nathan",
+    "growths": {
+      "HP": 55,
+      "Str": 60,
+      "Mag": 15,
+      "Spd": 25,
+      "Dex": 60,
+      "Def": 45,
+      "Res": 15,
+      "Lck": 25,
+      "Cha": 30
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Creek",
+    "growths": {
+      "HP": 45,
+      "Str": 50,
+      "Mag": 15,
+      "Spd": 60,
+      "Dex": 50,
+      "Def": 35,
+      "Res": 20,
+      "Lck": 30,
+      "Cha": 35
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Kiroc",
+    "growths": {
+      "HP": 55,
+      "Str": 40,
+      "Mag": 15,
+      "Spd": 55,
+      "Dex": 50,
+      "Def": 30,
+      "Res": 15,
+      "Lck": 30,
+      "Cha": 25
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Klapka",
+    "growths": {
+      "HP": 40,
+      "Str": 40,
+      "Mag": 10,
+      "Spd": 25,
+      "Dex": 45,
+      "Def": 50,
+      "Res": 15,
+      "Lck": 25,
+      "Cha": 35
+    },
+    "baseGrowthsWithoutAbility": null
+  },
+  {
+    "name": "Tahonia",
+    "growths": {
+      "HP": 65,
+      "Str": 50,
+      "Mag": 5,
+      "Spd": 20,
+      "Dex": 40,
+      "Def": 45,
+      "Res": 35,
+      "Lck": 20,
+      "Cha": 40
+    },
+    "baseGrowthsWithoutAbility": null
+  }
+]

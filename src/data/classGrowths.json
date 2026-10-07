@@ -1,0 +1,1879 @@
+[
+  {
+    "name": "Noble",
+    "growths": {
+      "HP": 0,
+      "Str": 0,
+      "Mag": 0,
+      "Spd": 0,
+      "Dex": 0,
+      "Def": 0,
+      "Res": 0,
+      "Lck": 0,
+      "Cha": 0
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Base",
+    "idealExamLevel": null,
+    "renownReq": null,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Commoner",
+    "growths": {
+      "HP": 0,
+      "Str": 0,
+      "Mag": 0,
+      "Spd": 0,
+      "Dex": 0,
+      "Def": 0,
+      "Res": 0,
+      "Lck": 0,
+      "Cha": 0
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Base",
+    "idealExamLevel": null,
+    "renownReq": null,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Gladiator",
+    "growths": {
+      "HP": 10,
+      "Str": 10,
+      "Mag": 0,
+      "Spd": 0,
+      "Dex": 0,
+      "Def": 0,
+      "Res": 0,
+      "Lck": 0,
+      "Cha": 0
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Beginner",
+    "idealExamLevel": 5,
+    "renownReq": 1,
+    "incompleteData": false,
+    "skillRequirements": "Gauntlets, Axe or Sword D",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Hunter",
+    "growths": {
+      "HP": 10,
+      "Str": 0,
+      "Mag": 0,
+      "Spd": 10,
+      "Dex": 10,
+      "Def": 0,
+      "Res": 0,
+      "Lck": 0,
+      "Cha": 0
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Beginner",
+    "idealExamLevel": 5,
+    "renownReq": 1,
+    "incompleteData": false,
+    "skillRequirements": "Bows D, Swords D",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Soldier",
+    "growths": {
+      "HP": 10,
+      "Str": 5,
+      "Mag": 0,
+      "Spd": -5,
+      "Dex": 5,
+      "Def": 10,
+      "Res": 0,
+      "Lck": 0,
+      "Cha": 0
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Beginner",
+    "idealExamLevel": 5,
+    "renownReq": 1,
+    "incompleteData": false,
+    "skillRequirements": "Axes D, Spears D",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Ornius Rider",
+    "growths": {
+      "HP": 10,
+      "Str": 0,
+      "Mag": 0,
+      "Spd": 10,
+      "Dex": 0,
+      "Def": 0,
+      "Res": 5,
+      "Lck": 5,
+      "Cha": 0
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 1,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Beginner",
+    "idealExamLevel": 5,
+    "renownReq": 1,
+    "incompleteData": false,
+    "skillRequirements": "Riding E+, Axes D, Spears D",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Diviner",
+    "growths": {
+      "HP": 5,
+      "Str": -5,
+      "Mag": 15,
+      "Spd": 0,
+      "Dex": 5,
+      "Def": -5,
+      "Res": 10,
+      "Lck": 0,
+      "Cha": 0
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Beginner",
+    "idealExamLevel": 5,
+    "renownReq": 1,
+    "incompleteData": false,
+    "skillRequirements": "Black or White Magic D",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Myrmidon",
+    "growths": {
+      "HP": 10,
+      "Str": 0,
+      "Mag": 0,
+      "Spd": 15,
+      "Dex": 10,
+      "Def": 0,
+      "Res": 0,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Specialty",
+    "idealExamLevel": 20,
+    "renownReq": 4,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Brigand",
+    "growths": {
+      "HP": 15,
+      "Str": 15,
+      "Mag": -5,
+      "Spd": 5,
+      "Dex": 0,
+      "Def": 5,
+      "Res": 0,
+      "Lck": 0,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Specialty",
+    "idealExamLevel": 20,
+    "renownReq": 4,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Pugilist",
+    "growths": {
+      "HP": 15,
+      "Str": 10,
+      "Mag": -5,
+      "Spd": 10,
+      "Dex": 5,
+      "Def": 10,
+      "Res": 0,
+      "Lck": 0,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Specialty",
+    "idealExamLevel": 20,
+    "renownReq": 4,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Archer",
+    "growths": {
+      "HP": 10,
+      "Str": 0,
+      "Mag": 0,
+      "Spd": 10,
+      "Dex": 15,
+      "Def": 5,
+      "Res": 0,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Specialty",
+    "idealExamLevel": 20,
+    "renownReq": 4,
+    "incompleteData": false,
+    "skillRequirements": "Bows C",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Rogue",
+    "growths": {
+      "HP": 10,
+      "Str": 0,
+      "Mag": 0,
+      "Spd": 15,
+      "Dex": 10,
+      "Def": 0,
+      "Res": 5,
+      "Lck": 5,
+      "Cha": 0
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Specialty",
+    "idealExamLevel": 20,
+    "renownReq": 4,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Armored Knight",
+    "growths": {
+      "HP": 10,
+      "Str": 10,
+      "Mag": -5,
+      "Spd": -5,
+      "Dex": 5,
+      "Def": 25,
+      "Res": -5,
+      "Lck": 0,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Specialty",
+    "idealExamLevel": 20,
+    "renownReq": 4,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Light Cavalry",
+    "growths": {
+      "HP": 10,
+      "Str": 5,
+      "Mag": -5,
+      "Spd": 5,
+      "Dex": 0,
+      "Def": 5,
+      "Res": 0,
+      "Lck": 5,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 1,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Specialty",
+    "idealExamLevel": 20,
+    "renownReq": 4,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Charioteer",
+    "growths": {
+      "HP": 10,
+      "Str": 5,
+      "Mag": -5,
+      "Spd": -5,
+      "Dex": 15,
+      "Def": 10,
+      "Res": 0,
+      "Lck": 5,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 2,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Specialty",
+    "idealExamLevel": 20,
+    "renownReq": 4,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Armored Ornius Rider",
+    "growths": {
+      "HP": 10,
+      "Str": 0,
+      "Mag": -5,
+      "Spd": 10,
+      "Dex": 5,
+      "Def": 10,
+      "Res": 0,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 1,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Specialty",
+    "idealExamLevel": 20,
+    "renownReq": 4,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Wing Soldier",
+    "growths": {
+      "HP": 10,
+      "Str": 0,
+      "Mag": 5,
+      "Spd": 0,
+      "Dex": 5,
+      "Def": 5,
+      "Res": 5,
+      "Lck": 5,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 1,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Specialty",
+    "idealExamLevel": 20,
+    "renownReq": 4,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Shaman",
+    "growths": {
+      "HP": 5,
+      "Str": -5,
+      "Mag": 15,
+      "Spd": 10,
+      "Dex": 10,
+      "Def": -10,
+      "Res": 10,
+      "Lck": 10,
+      "Cha": 0
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Specialty",
+    "idealExamLevel": 20,
+    "renownReq": 4,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Priest",
+    "growths": {
+      "HP": 5,
+      "Str": -5,
+      "Mag": 10,
+      "Spd": 5,
+      "Dex": 5,
+      "Def": -10,
+      "Res": 15,
+      "Lck": 15,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Specialty",
+    "idealExamLevel": 20,
+    "renownReq": 4,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Shido",
+    "growths": {
+      "HP": 10,
+      "Str": 5,
+      "Mag": 0,
+      "Spd": 15,
+      "Dex": 10,
+      "Def": 0,
+      "Res": -5,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": "Swords B",
+    "unlockRoutes": null,
+    "unlockNote": "Automatic Advanced unlock",
+    "isExclusive": false
+  },
+  {
+    "name": "Warrior",
+    "growths": {
+      "HP": 20,
+      "Str": 20,
+      "Mag": -5,
+      "Spd": 0,
+      "Dex": 0,
+      "Def": 5,
+      "Res": -5,
+      "Lck": 0,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": "Gauntlets B, Axes B, Swords B",
+    "unlockRoutes": null,
+    "unlockNote": "Automatic Advanced unlock",
+    "isExclusive": false
+  },
+  {
+    "name": "Blacksmith",
+    "growths": {
+      "HP": 15,
+      "Str": 10,
+      "Mag": 10,
+      "Spd": 0,
+      "Dex": 5,
+      "Def": 10,
+      "Res": 10,
+      "Lck": 0,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": "Black Magic D, Axes C",
+    "unlockRoutes": [
+      "Dietrich"
+    ],
+    "unlockNote": "Dietrich only (Smyrnos, Renown 8)",
+    "isExclusive": false
+  },
+  {
+    "name": "Sniper",
+    "growths": {
+      "HP": 10,
+      "Str": 5,
+      "Mag": 0,
+      "Spd": 10,
+      "Dex": 20,
+      "Def": 5,
+      "Res": 5,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": "Bows B",
+    "unlockRoutes": null,
+    "unlockNote": "Automatic Advanced unlock",
+    "isExclusive": false
+  },
+  {
+    "name": "Forest Knight",
+    "growths": {
+      "HP": 10,
+      "Str": 5,
+      "Mag": 0,
+      "Spd": 10,
+      "Dex": 10,
+      "Def": 5,
+      "Res": 5,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 1,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Ranger",
+    "growths": {
+      "HP": 10,
+      "Str": 5,
+      "Mag": 0,
+      "Spd": 15,
+      "Dex": 15,
+      "Def": 0,
+      "Res": 10,
+      "Lck": 15,
+      "Cha": 0
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Guardian",
+    "growths": {
+      "HP": 10,
+      "Str": 10,
+      "Mag": 0,
+      "Spd": 0,
+      "Dex": 5,
+      "Def": 10,
+      "Res": 15,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": [
+      "Dietrich",
+      "Theodora"
+    ],
+    "unlockNote": "Dietrich (Il-Lara contract) or Theodora Ch 9 supply quests",
+    "isExclusive": false
+  },
+  {
+    "name": "Dreadnought",
+    "growths": {
+      "HP": 15,
+      "Str": 15,
+      "Mag": -5,
+      "Spd": -10,
+      "Dex": 5,
+      "Def": 30,
+      "Res": -10,
+      "Lck": 0,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Bardinger",
+    "growths": {
+      "HP": 10,
+      "Str": 10,
+      "Mag": -5,
+      "Spd": 0,
+      "Dex": 0,
+      "Def": 5,
+      "Res": 10,
+      "Lck": 5,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 1,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Elephant Rider",
+    "growths": {
+      "HP": 20,
+      "Str": 10,
+      "Mag": -5,
+      "Spd": -10,
+      "Dex": 20,
+      "Def": 15,
+      "Res": -5,
+      "Lck": 5,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 1,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": "Riding C",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Caladrius",
+    "growths": {
+      "HP": 15,
+      "Str": 0,
+      "Mag": 10,
+      "Spd": 5,
+      "Dex": 10,
+      "Def": 10,
+      "Res": 10,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 1,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": "Riding D, Black Magic B",
+    "unlockRoutes": [
+      "Cai"
+    ],
+    "unlockNote": "Cai: Castor's Renown 7 lesson",
+    "isExclusive": false
+  },
+  {
+    "name": "Dragoon",
+    "growths": {
+      "HP": 15,
+      "Str": 5,
+      "Mag": 0,
+      "Spd": 0,
+      "Dex": 5,
+      "Def": 10,
+      "Res": 10,
+      "Lck": 10,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 1,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": "Flying C, plus Axe B or Spear B",
+    "unlockRoutes": [
+      "Cai",
+      "Theodora"
+    ],
+    "unlockNote": "Cai: Aurora's Renown 8 lesson; or Theodora Ch 11 supply quests",
+    "isExclusive": false
+  },
+  {
+    "name": "Ovate",
+    "growths": {
+      "HP": 10,
+      "Str": -5,
+      "Mag": 20,
+      "Spd": 5,
+      "Dex": 15,
+      "Def": -10,
+      "Res": 15,
+      "Lck": 10,
+      "Cha": 0
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Bishop",
+    "growths": {
+      "HP": 10,
+      "Str": -5,
+      "Mag": 15,
+      "Spd": 0,
+      "Dex": 5,
+      "Def": -10,
+      "Res": 20,
+      "Lck": 20,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Troubadour",
+    "growths": {
+      "HP": 10,
+      "Str": 0,
+      "Mag": 15,
+      "Spd": 5,
+      "Dex": 5,
+      "Def": 5,
+      "Res": 15,
+      "Lck": 15,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 1,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": "Riding D, plus White or Black Magic B",
+    "unlockRoutes": [
+      "Cai",
+      "Leda"
+    ],
+    "unlockNote": "Cai: Renown 10 lesson; Leda: 'Elegant Drink Recipes'",
+    "isExclusive": false
+  },
+  {
+    "name": "Dancer",
+    "growths": {
+      "HP": 15,
+      "Str": 5,
+      "Mag": 0,
+      "Spd": 25,
+      "Dex": 10,
+      "Def": 0,
+      "Res": 5,
+      "Lck": 10,
+      "Cha": 20
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": "Bows B, Swords B",
+    "unlockRoutes": [
+      "Leda"
+    ],
+    "unlockNote": "Leda: 'Great Dancer's Successor', Ch 9. Exclusive (one holder).",
+    "isExclusive": true
+  },
+  {
+    "name": "Cataphract",
+    "growths": {
+      "HP": 15,
+      "Str": 15,
+      "Mag": -5,
+      "Spd": -10,
+      "Dex": 0,
+      "Def": 10,
+      "Res": -5,
+      "Lck": 0,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 1,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Advanced",
+    "idealExamLevel": 35,
+    "renownReq": 8,
+    "incompleteData": false,
+    "skillRequirements": "Heavy Armor E+, Riding D, plus Axe B or Spear B",
+    "unlockRoutes": [
+      "Theodora"
+    ],
+    "unlockNote": "Theodora Ch 9 supply quests only",
+    "isExclusive": false
+  },
+  {
+    "name": "Swordmaster",
+    "growths": {
+      "HP": 15,
+      "Str": 10,
+      "Mag": 0,
+      "Spd": 20,
+      "Dex": 15,
+      "Def": 0,
+      "Res": 0,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": "Sword A (implied Shido path)",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "High Savant",
+    "growths": {
+      "HP": 10,
+      "Str": 15,
+      "Mag": 15,
+      "Spd": 10,
+      "Dex": 5,
+      "Def": 5,
+      "Res": 5,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 1,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Battlemaster",
+    "growths": {
+      "HP": 25,
+      "Str": 25,
+      "Mag": -5,
+      "Spd": -5,
+      "Dex": 5,
+      "Def": 10,
+      "Res": -5,
+      "Lck": -5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": "Gauntlet A, Axe A or Sword A",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "War Monk",
+    "growths": {
+      "HP": 15,
+      "Str": 10,
+      "Mag": 0,
+      "Spd": 15,
+      "Dex": 0,
+      "Def": 5,
+      "Res": 15,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Bow Adept",
+    "growths": {
+      "HP": 15,
+      "Str": 5,
+      "Mag": 0,
+      "Spd": 15,
+      "Dex": 20,
+      "Def": 5,
+      "Res": 5,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": "Bow A",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Bow Knight",
+    "growths": {
+      "HP": 10,
+      "Str": 10,
+      "Mag": 0,
+      "Spd": 15,
+      "Dex": 10,
+      "Def": 5,
+      "Res": 0,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 1,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Shadow Seeker",
+    "growths": {
+      "HP": 15,
+      "Str": 5,
+      "Mag": 0,
+      "Spd": 15,
+      "Dex": 25,
+      "Def": 0,
+      "Res": 10,
+      "Lck": 15,
+      "Cha": 0
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": "Bow A or Sword A",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Sentinel",
+    "growths": {
+      "HP": 15,
+      "Str": 15,
+      "Mag": 0,
+      "Spd": 5,
+      "Dex": 5,
+      "Def": 10,
+      "Res": 15,
+      "Lck": 5,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": "Spear A",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Castle Knight",
+    "growths": {
+      "HP": 25,
+      "Str": 20,
+      "Mag": -5,
+      "Spd": -15,
+      "Dex": 5,
+      "Def": 30,
+      "Res": -10,
+      "Lck": 0,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": "Heavy Armor C, plus Axe A or Spear A",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Orichaldia",
+    "growths": {
+      "HP": 15,
+      "Str": 15,
+      "Mag": -5,
+      "Spd": 5,
+      "Dex": 0,
+      "Def": 5,
+      "Res": 5,
+      "Lck": 5,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 1,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Great Knight",
+    "growths": {
+      "HP": 20,
+      "Str": 20,
+      "Mag": -5,
+      "Spd": -10,
+      "Dex": 0,
+      "Def": 15,
+      "Res": -10,
+      "Lck": 0,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 1,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": "Heavy Armor D, Riding D, plus Axe A or Spear A",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Celestial Trooper",
+    "growths": {
+      "HP": 15,
+      "Str": 5,
+      "Mag": -5,
+      "Spd": 10,
+      "Dex": 5,
+      "Def": 5,
+      "Res": 15,
+      "Lck": 15,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 1,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": "Flying C, plus Spear A or Sword A",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Bau Lord",
+    "growths": {
+      "HP": 15,
+      "Str": 5,
+      "Mag": 0,
+      "Spd": 5,
+      "Dex": 0,
+      "Def": 10,
+      "Res": 10,
+      "Lck": 10,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 1,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": "Flying C, plus Axe A or Spear A",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Druid",
+    "growths": {
+      "HP": 10,
+      "Str": -5,
+      "Mag": 30,
+      "Spd": 15,
+      "Dex": 10,
+      "Def": -10,
+      "Res": 20,
+      "Lck": 10,
+      "Cha": 0
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": "Black Magic A",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Wiseman",
+    "growths": {
+      "HP": 10,
+      "Str": -5,
+      "Mag": 20,
+      "Spd": 0,
+      "Dex": 5,
+      "Def": -10,
+      "Res": 25,
+      "Lck": 20,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": "White Magic A",
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "Valkyrium",
+    "growths": {
+      "HP": 10,
+      "Str": 0,
+      "Mag": 15,
+      "Spd": 5,
+      "Dex": 5,
+      "Def": 5,
+      "Res": 10,
+      "Lck": 15,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 1,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Master",
+    "idealExamLevel": 45,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": false
+  },
+  {
+    "name": "The Blade",
+    "growths": {
+      "HP": 15,
+      "Str": 10,
+      "Mag": 10,
+      "Spd": 20,
+      "Dex": 20,
+      "Def": 5,
+      "Res": 5,
+      "Lck": 5,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Divine",
+    "idealExamLevel": null,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": true
+  },
+  {
+    "name": "The Apsara",
+    "growths": {
+      "HP": 15,
+      "Str": 5,
+      "Mag": 10,
+      "Spd": 25,
+      "Dex": 15,
+      "Def": 5,
+      "Res": 5,
+      "Lck": 10,
+      "Cha": 30
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Divine",
+    "idealExamLevel": null,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": true
+  },
+  {
+    "name": "The Eternal",
+    "growths": {
+      "HP": 30,
+      "Str": 30,
+      "Mag": 0,
+      "Spd": 10,
+      "Dex": 0,
+      "Def": 15,
+      "Res": 0,
+      "Lck": 0,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Divine",
+    "idealExamLevel": null,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": true
+  },
+  {
+    "name": "The Godhand",
+    "growths": {
+      "HP": 15,
+      "Str": 10,
+      "Mag": 10,
+      "Spd": 15,
+      "Dex": 5,
+      "Def": 10,
+      "Res": 15,
+      "Lck": 5,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Divine",
+    "idealExamLevel": null,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": true
+  },
+  {
+    "name": "The Calamity",
+    "growths": {
+      "HP": 15,
+      "Str": 5,
+      "Mag": 15,
+      "Spd": 25,
+      "Dex": 20,
+      "Def": 5,
+      "Res": 15,
+      "Lck": 15,
+      "Cha": 5
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Divine",
+    "idealExamLevel": null,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": true
+  },
+  {
+    "name": "The Trident",
+    "growths": {
+      "HP": 15,
+      "Str": 15,
+      "Mag": 5,
+      "Spd": 10,
+      "Dex": 10,
+      "Def": 15,
+      "Res": 15,
+      "Lck": 5,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Divine",
+    "idealExamLevel": null,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": true
+  },
+  {
+    "name": "The Cavalier",
+    "growths": {
+      "HP": 20,
+      "Str": 15,
+      "Mag": 5,
+      "Spd": 10,
+      "Dex": 10,
+      "Def": 15,
+      "Res": 10,
+      "Lck": 5,
+      "Cha": 15
+    },
+    "mountMultipliers": {
+      "Horse": 1,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Divine",
+    "idealExamLevel": null,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": true
+  },
+  {
+    "name": "The Avatar",
+    "growths": {
+      "HP": 10,
+      "Str": -5,
+      "Mag": 30,
+      "Spd": 10,
+      "Dex": 5,
+      "Def": -5,
+      "Res": 30,
+      "Lck": 20,
+      "Cha": 10
+    },
+    "mountMultipliers": {
+      "Horse": 0,
+      "Ornius": 0,
+      "Pegasus": 0,
+      "Bau": 0,
+      "Elephant": 0,
+      "Wyvern": 0,
+      "Griffon": 0
+    },
+    "tier": "Divine",
+    "idealExamLevel": null,
+    "renownReq": "Part 3",
+    "incompleteData": false,
+    "skillRequirements": null,
+    "unlockRoutes": null,
+    "unlockNote": null,
+    "isExclusive": true
+  }
+]

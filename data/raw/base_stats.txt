@@ -1,0 +1,19 @@
+Name	Level	Starting_Class	HP	Str	Mag	Spd	Dex	Def	Res	Lck	Cha	Source
+Cai	1	Commoner	27	10	7	8	8	6	5	6	5	Fandom FE wiki
+Tialla	1	Commoner	24	5	8	6	6	4	6	7	5	Fandom FE wiki
+Peter	1	Commoner	25	9	3	6	10	5	4	5	4	Fandom FE wiki
+Ultand	13	Diviner	30	11	16	10	10	9	12	15	15	Fandom FE wiki
+Dietrich	1	Noble	27	11	6	11	10	6	4	9	10	Fandom FE wiki
+Fabio	1	Commoner	25	6	10	7	6	4	8	6	5	Fandom FE wiki
+Esmeralda	1	Commoner	28	12	4	6	5	7	3	7	6	Fandom FE wiki
+Mikaela	5	Gladiator	29	13	4	7	8	7	5	7	9	Fandom FE wiki
+Theodora	1	Noble	30	6	6	6	6	7	5	6	8	Fandom FE wiki
+Bonaventure	1	Noble	25	7	10	7	8	6	8	5	7	Fandom FE wiki
+Tobias	1	Noble	28	14	4	5	5	8	3	6	5	Fandom FE wiki
+Lysander	5	Ornius Rider	28	9	6	11	9	8	6	9	7	Fandom FE wiki
+Lilian	5	Hunter	25	8	6	10	11	6	5	7	6	Fandom FE wiki
+Leda	1	Commoner	25	8	6	12	8	6	6	5	10	Fandom FE wiki
+Buccar	1	Commoner	29	12	4	5	6	8	3	6	6	Fandom FE wiki + FE Wiki (fireemblemwiki.org)
+Sirocco	1	Commoner	26	8	8	9	8	6	7	8	8	Fandom FE wiki
+Mu	1	Commoner	23	7	3	7	8	5	5	4	4	Fandom FE wiki
+Olympia	5	Diviner	25	6	14	8	7	6	8	8	9	Fandom FE wiki
