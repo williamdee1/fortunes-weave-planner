@@ -1,85 +1,52 @@
-/**
- * App.tsx — Root component placeholder.
- * Phase 3 will replace this with the full six-view UI.
- */
-import type { FC } from 'react'
-import charGrowths from './data/charGrowths.json'
-import classGrowths from './data/classGrowths.json'
-import meta from './data/meta.json'
+import './styles/globals.css'
+import { AppProvider, useApp } from './context/AppContext'
+import { RouteView } from './views/RouteView'
+import { PlannerView } from './views/PlannerView'
+import { ClassBrowserView } from './views/ClassBrowserView'
+import { SettingsView } from './views/SettingsView'
+import { DataIssuesView } from './views/DataIssuesView'
+import type { ViewName } from './context/AppContext'
 
-const App: FC = () => {
+const NAV: { key: ViewName; label: string }[] = [
+  { key: 'roster',  label: 'Route Roster' },
+  { key: 'planner', label: 'Character Planner' },
+  { key: 'classes', label: 'Class Browser' },
+  { key: 'settings', label: 'Settings' },
+  { key: 'issues',  label: 'Data Issues' },
+]
+
+function Shell() {
+  const { activeView, setActiveView } = useApp()
+
   return (
-    <main style={{ fontFamily: 'system-ui, sans-serif', padding: '2rem', maxWidth: '60rem', margin: '0 auto' }}>
-      <h1>Fortune's Weave Planner</h1>
-      <p>
-        <em>Fire Emblem: Fortune's Weave</em> — Class &amp; Recruitment Planner
-      </p>
-      <p style={{ color: '#666', fontSize: '0.9rem' }}>
-        Data built at: {meta.builtAt} &mdash;{' '}
-        {meta.characterCount} characters, {meta.classCount} classes
-      </p>
-
-      <h2>Phase 1 complete — data pipeline ✓ &nbsp; model layer ✓ &nbsp; tests ✓</h2>
-      <p>
-        The model layer is ready. Phase 3 will add the full UI:
-        Route Selector, Character Planner (manual + optimize), Class Browser,
-        Settings, and Data Issues panel.
-      </p>
-
-      <details>
-        <summary>Character growths ({charGrowths.length})</summary>
-        <table style={{ borderCollapse: 'collapse', fontSize: '0.8rem', marginTop: '0.5rem' }}>
-          <thead>
-            <tr>
-              {['Name', 'HP', 'Str', 'Mag', 'Spd', 'Dex', 'Def', 'Res', 'Lck', 'Cha'].map(h => (
-                <th key={h} style={{ border: '1px solid #ccc', padding: '2px 6px' }}>{h}</th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {(charGrowths as Array<{ name: string; growths: Record<string, number> }>).map(c => (
-              <tr key={c.name}>
-                <td style={{ border: '1px solid #ccc', padding: '2px 6px' }}>{c.name}</td>
-                {['HP', 'Str', 'Mag', 'Spd', 'Dex', 'Def', 'Res', 'Lck', 'Cha'].map(s => (
-                  <td key={s} style={{ border: '1px solid #ccc', padding: '2px 6px', textAlign: 'right' }}>
-                    {c.growths[s]}
-                  </td>
-                ))}
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </details>
-
-      <details style={{ marginTop: '1rem' }}>
-        <summary>Classes ({classGrowths.length})</summary>
-        <table style={{ borderCollapse: 'collapse', fontSize: '0.8rem', marginTop: '0.5rem' }}>
-          <thead>
-            <tr>
-              {['Name', 'Tier', 'Ideal Lv', 'Renown', 'Str', 'Spd', 'Def', 'Res'].map(h => (
-                <th key={h} style={{ border: '1px solid #ccc', padding: '2px 6px' }}>{h}</th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {(classGrowths as Array<{ name: string; tier: string; idealExamLevel: number | null; renownReq: string | number | null; growths: Record<string, number> }>).map(c => (
-              <tr key={c.name}>
-                <td style={{ border: '1px solid #ccc', padding: '2px 6px' }}>{c.name}</td>
-                <td style={{ border: '1px solid #ccc', padding: '2px 6px' }}>{c.tier}</td>
-                <td style={{ border: '1px solid #ccc', padding: '2px 6px', textAlign: 'right' }}>{c.idealExamLevel ?? '—'}</td>
-                <td style={{ border: '1px solid #ccc', padding: '2px 6px', textAlign: 'right' }}>{c.renownReq ?? '—'}</td>
-                {['Str', 'Spd', 'Def', 'Res'].map(s => (
-                  <td key={s} style={{ border: '1px solid #ccc', padding: '2px 6px', textAlign: 'right' }}>
-                    {c.growths[s]}
-                  </td>
-                ))}
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </details>
-    </main>
+    <div className="app-shell">
+      <nav className="app-nav">
+        <span className="brand">Fortune's Weave Planner</span>
+        {NAV.map(n => (
+          <button
+            key={n.key}
+            className={`nav-tab${activeView === n.key ? ' active' : ''}`}
+            onClick={() => setActiveView(n.key)}
+          >
+            {n.label}
+          </button>
+        ))}
+      </nav>
+      <div className="view-container">
+        {activeView === 'roster'   && <RouteView />}
+        {activeView === 'planner'  && <PlannerView />}
+        {activeView === 'classes'  && <ClassBrowserView />}
+        {activeView === 'settings' && <SettingsView />}
+        {activeView === 'issues'   && <DataIssuesView />}
+      </div>
+    </div>
   )
 }
 
-export default App
+export default function App() {
+  return (
+    <AppProvider>
+      <Shell />
+    </AppProvider>
+  )
+}
