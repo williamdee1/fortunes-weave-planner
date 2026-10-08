@@ -1,2 +1,2 @@
 Class	Ability	From_Level	HP	Str	Mag	Spd	Dex	Def	Res	Lck	Cha	Source_Confidence
-Elephant Rider	Elephant Rider's Path	45	10	10	0	0	10	10	10	0	0	Medium (KR community DB; matches forum report)
+Elephant Rider	Elephant Rider's Path	45	10	10	0	0	10	10	10	0	0	Medium

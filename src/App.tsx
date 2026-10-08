@@ -3,6 +3,8 @@ import { AppProvider, useApp } from './context/AppContext'
 import { RouteView } from './views/RouteView'
 import { PlannerView } from './views/PlannerView'
 import { ClassBrowserView } from './views/ClassBrowserView'
+import { CompareView } from './views/CompareView'
+import { ScatterView } from './views/ScatterView'
 import { SettingsView } from './views/SettingsView'
 import { DataIssuesView } from './views/DataIssuesView'
 import type { ViewName } from './context/AppContext'
@@ -11,6 +13,8 @@ const NAV: { key: ViewName; label: string }[] = [
   { key: 'roster',  label: 'Route Roster' },
   { key: 'planner', label: 'Character Planner' },
   { key: 'classes', label: 'Class Browser' },
+  { key: 'compare', label: 'Compare' },
+  { key: 'scatter', label: 'Scatter' },
   { key: 'settings', label: 'Settings' },
   { key: 'issues',  label: 'Data Issues' },
 ]
@@ -36,6 +40,8 @@ function Shell() {
         {activeView === 'roster'   && <RouteView />}
         {activeView === 'planner'  && <PlannerView />}
         {activeView === 'classes'  && <ClassBrowserView />}
+        {activeView === 'compare'  && <CompareView />}
+        {activeView === 'scatter'  && <ScatterView />}
         {activeView === 'settings' && <SettingsView />}
         {activeView === 'issues'   && <DataIssuesView />}
       </div>

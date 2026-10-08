@@ -14,7 +14,7 @@ export interface StoredPlan {
   mountBond: number
 }
 
-export type ViewName = 'roster' | 'planner' | 'classes' | 'settings' | 'issues'
+export type ViewName = 'roster' | 'planner' | 'classes' | 'compare' | 'scatter' | 'settings' | 'issues'
 
 // ─── Context shape ───────────────────────────────────────────────────────────
 
