@@ -1,4 +1,2 @@
 Class	Ability	From_Level	HP	Str	Mag	Spd	Dex	Def	Res	Lck	Cha	Source_Confidence
-Charioteer	Charioteer's Path	35	10	5	5	5	5	5	0	0	0	Medium (KR community DB; player reports)
-Charioteer	Charioteer's Path	45	10	15	5	5	10	15	0	5	0	Medium (KR community DB; player reports)
 Elephant Rider	Elephant Rider's Path	45	10	10	0	0	10	10	10	0	0	Medium (KR community DB; matches forum report)
